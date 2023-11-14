@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+qiskit
+cirq
+pyquil
+pennylane
+sympy
+networkx
+jupyter
+pandas
+pytest
+flake8
+aer
